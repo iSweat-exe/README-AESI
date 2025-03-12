@@ -75,7 +75,7 @@ AESI is continuously evolving with **regular updates**, new features, and optimi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iSweat-exe/AESI-1.3-SOURCE-CODE.git
+   git clone https://github.com/iSweat-exe/
    ```
 
 ## Configuration 📊
